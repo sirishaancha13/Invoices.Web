@@ -1,0 +1,26 @@
+[
+  {
+    "CustomerName": "John West",
+    "IssueDate": "09-12-2021",
+    "Amount": "7200",
+    "OutstandingAmount": "14500"
+  },
+  {
+    "CustomerName": "Peter Rabbit",
+    "IssueDate": "11-12-2021",
+    "Amount": "15000",
+    "OutstandingAmount": "3000"
+  },
+  {
+    "CustomerName": "Peppa Pig",
+    "IssueDate": "12-12-2021",
+    "Amount": "60000",
+    "OutstandingAmount": "2500"
+  },
+  {
+    "CustomerName": "Tom Sawyer",
+    "IssueDate": "1-5-2022",
+    "Amount": "16000",
+    "OutstandingAmount": "7050"
+  }
+]
