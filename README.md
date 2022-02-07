@@ -1,3 +1,5 @@
+The page shows a button "Fetch Invoices from Xero" - Clicking on it would fetch random test data to retieve different possible results.
+
 # AngularSpa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
